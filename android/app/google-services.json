@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238243425933",
+    "project_id": "salonbookingapp-b532d",
+    "storage_bucket": "salonbookingapp-b532d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238243425933:android:0d125208440d847de03cc4",
+        "android_client_info": {
+          "package_name": "com.sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBReBKB2CCwu3AK9L8jn3uGnJzl91bENaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
