@@ -1,4 +1,6 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+It is a Salon Booking Application for females.
+This project allows users to sign up as clients or as salons.Clients can see the list of salons of nearby areas registered on this app, their services, location, instagram profile link and other details. Clients can book services based on 3 different categories on the coming days of the month. The salon user can add, edit, remove the services and details. Salon Users get booking requests and can accept and reject any of them Settings, user profiles and account handling is done explicitly.
 
 # Getting Started
 
